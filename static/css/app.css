@@ -1,0 +1,56 @@
+*{
+}
+
+.intro{
+	background-image: url("../img/background.png")  !important;
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat;
+  	height: 100vh !important;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	background-size: cover;
+  	-o-background-size: cover;
+}
+
+.content{
+		background-image: url("../img/about-bg.jpg")  !important;
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat;
+  	height: 100vh !important;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	background-size: cover;
+  	-o-background-size: cover;	
+}
+#intro>.height-img-responsive{
+	height: 100vh !important;
+}
+
+.background-content{
+	background-color: #00000085;
+	height: 100vh;
+	width: 100%;
+}
+
+.background-content2{
+	background-color: #848484bd;
+	height: 100vh;
+	width: 100%;
+}
+.background-content>#intro-content{
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
+
+#intro-content a{
+	text-decoration: none;
+	color: #22ff08;
+}
+
+.intro-img{
+	width: 40%;
+}
