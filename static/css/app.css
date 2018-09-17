@@ -36,7 +36,7 @@ a.paginas{
 }
 
 .intro{
-	background-image: url("../img/background.png") !important;
+	background-image: url("../img/background-min.png") !important;
 	background-position: center; /* Center the image */
   	background-repeat: no-repeat !important;
   	height: 100vh !important;
